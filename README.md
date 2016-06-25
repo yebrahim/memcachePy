@@ -1,4 +1,4 @@
-# pyMemcache
+# memcachePy
 Simple transactional memory cache written in Python
 This implementation is to explore the idea of simple transactional operations on a memory cache. It supports string keys and integer values, but it can easily be generalized for other types as well.
 
